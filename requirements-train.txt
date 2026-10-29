@@ -1,0 +1,4 @@
+torch>=2.1
+numpy>=1.21
+Pillow>=9.1
+h5py>=3.0
